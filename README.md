@@ -18,6 +18,10 @@
   <img align="center" alt="Caique-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Caique-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Caique-Notion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+<p></p>
 </div>
-  
+
+  [![caiqueSteibel](https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueSteibel&hide=html&layout=compact&theme=onedark)](https://github.com/caiqueSteibel/)
   ##
+
+  

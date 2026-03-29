@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Caique Steibel
 
-- 🌱 Estudando Engenharia de Software - PUCRS
+- 🌱 Engenheiro de Software - PUCRS
 - 📫 Contato: caiquesteibel@gmail.com
 - ⚡ Linkedin: www.linkedin.com/in/caiquesteibel
 - 😄 Pronomes: ele/dele
